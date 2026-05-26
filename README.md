@@ -21,7 +21,7 @@ The dashboard provides insights into:
 
 Shows total revenue generated through Card, Cash, NetBanking, and UPI payments.
 
-![Revenue Dashboard]<img width="740" height="517" alt="Screenshot 2026-05-25 110707" src="https://github.com/user-attachments/assets/e26df19e-dd75-4cbe-8d66-468e58a5c3fa" />
+<img width="740" height="517" alt="Screenshot 2026-05-25 110707" src="https://github.com/user-attachments/assets/e26df19e-dd75-4cbe-8d66-468e58a5c3fa" />
 
 
 ---
@@ -30,7 +30,7 @@ Shows total revenue generated through Card, Cash, NetBanking, and UPI payments.
 
 Displays year-wise passenger count across Sleeper, General, and AC coaches.
 
-![Coach Type Dashboard]<img width="1188" height="526" alt="Screenshot 2026-05-25 110723" src="https://github.com/user-attachments/assets/cd32f66b-c424-4cdc-8f72-7bcce473b93f" />
+<img width="1188" height="526" alt="Screenshot 2026-05-25 110723" src="https://github.com/user-attachments/assets/cd32f66b-c424-4cdc-8f72-7bcce473b93f" />
 
 
 ---
@@ -45,7 +45,8 @@ Analyzes passenger distribution across age categories:
 * Old
 * Teen
 
-![Age Category Dashboard]
+<img width="1407" height="606" alt="Screenshot 2026-05-25 110750" src="https://github.com/user-attachments/assets/02cf099e-f7cf-4e64-a87b-7ba24574b8a8" />
+
 
 
 ---
@@ -54,7 +55,7 @@ Analyzes passenger distribution across age categories:
 
 Allows filtering dashboard visuals dynamically by year.
 
-![Timeline Slicer]<img width="447" height="251" alt="Screenshot 2026-05-25 110805" src="https://github.com/user-attachments/assets/e2c47f60-d85c-4fb6-89c6-1e57ee78ca5f" />
+<img width="447" height="251" alt="Screenshot 2026-05-25 110805" src="https://github.com/user-attachments/assets/e2c47f60-d85c-4fb6-89c6-1e57ee78ca5f" />
 
 
 ---
