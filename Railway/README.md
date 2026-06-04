@@ -144,14 +144,14 @@ The dashboard includes an interactive Year Slicer that allows users to filter an
 
 The dataset contains railway ticket booking records including:
 
--Ticket ID
+- Ticket ID
 - Sale Date
 - Ticket Price
 - Payment Mode
 - Coach Type
 - Passenger Age
 - Source Station
-- -Destination Station
+- Destination Station
 
 ---
 
